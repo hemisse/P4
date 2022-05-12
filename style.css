@@ -208,6 +208,10 @@ a:hover {
     border: 1px solid transparent;
 }
 
+.black{
+    color: #000000;
+}
+
 .btn-bloc{
     display: block;
     width: 100%;
